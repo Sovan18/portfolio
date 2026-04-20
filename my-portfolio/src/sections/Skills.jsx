@@ -14,10 +14,8 @@ const skills = [
     { icon: <SiTailwindcss />, name: "Tailwind CSS" },
     { icon: <SiFastapi />, name: "FastAPI" },
     { icon: <SiPython />, name: "Python" },
-    { icon: <SiDocker />, name: "Docker" },
     { icon: <DiNodejsSmall />, name: "Node.js" },
     { icon: <SiMongodb />, name: "MongoDB" },
-    { icon: <SiAngular />, name: "Angular" },
   ];
  const repeated=[...skills,...skills]
  const [dir,setDir]=useState(-1)

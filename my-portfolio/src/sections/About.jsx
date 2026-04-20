@@ -3,7 +3,7 @@ import sovan from '../assets/so.png'
 
 export default function About(){
   const stats=[
-    {label:"Experience",value:"1+ years"},
+    {label:"Fresher",value:" "},
     {label:"Speciality",value:"Full Stack"},
     {label:"Focus",value:"Performance & UX"}
   ]
